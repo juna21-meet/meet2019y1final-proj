@@ -14,5 +14,14 @@ if answer_2.lower() == "a" or answer_2.lower() == "no":
     print("Correct")
 else:
     print("I wish")
-    
+
+#questin 3
+print("how old are you?")
+answer_3 = input("a)14\nb)15\nc)13\nd)16\n:")
+if answer_3.lower() == "b" or answer_3.lower() == "15":
+    print("correct!!!")
+else:
+    print("nooooooo!!")
+                 
+####thiss thingg isss soo coolll!!!!!
       
